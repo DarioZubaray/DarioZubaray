@@ -21,12 +21,15 @@ I'm Software Developer, who loves building all types of applications including w
 
 * Java Application Development
 * Javascript/Typescript NodeJs
-* Angular | Reactjs | Vuejs
+* Angular | Reactjs [Nextjs / Gatsbyjs] | Vuejs
+* Maven, Gradel, Ant | npm [project management]
+* Spring, Struts, JSF | Expressjs, nestjs [Web framework]
+* Rest / Soap / GrahQl
 * Design Patterns [GoF]
-* Functional Programming | Reactive Programming
+* Object oriented / Functional / Reactive Programming
+* Junit-mockito | mocha, chai, supertest, jest [Unit Testing]
 * Documentation with Swagger
 * Postman / SoapUI for API Testing
-* Unit Testing [Junit-mockito | mocha, chai, supertest, jest]
-* Version Control [GIT | SVN]
+* GIT / SVN [Version Control]
 * Agile Development
 

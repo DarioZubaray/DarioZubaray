@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Software Developer, who loves building all types of applications including web, mobile, desktop, and beyond.
+
+## Expertise:
+
+* Java Application Development
+* Javascript/Typescript NodeJs
+* Angular | Reactjs | Vuejs
+* Design Patterns [GoF]
+* Functional Programming | Reactive Programming
+* Documentation with Swagger
+* Postman / SoapUI for API Testing
+* Unit Testing [Junit-mockito | mocha, chai, supertest, jest]
+* Version Control [GIT | SVN]
+* Agile Development
+

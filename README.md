@@ -17,19 +17,22 @@ Here are some ideas to get you started:
 
 I'm Software Developer, who loves building all types of applications including web, mobile, desktop, and beyond.
 
-## Expertise:
+## Experience:
 
 * Java Application Development
 * Javascript/Typescript NodeJs
-* Angular | Reactjs [Nextjs / Gatsbyjs] | Vuejs
-* Maven, Gradel, Ant | npm [project management]
-* Spring, Struts, JSF | Expressjs, nestjs [Web framework]
-* Rest / Soap / GrahQl
-* Design Patterns [GoF]
 * Object oriented / Functional / Reactive Programming
+* Reactjs [Nextjs / Gatsbyjs] | Angular
+* Maven, Gradel, Ant | npm, yarn [project management]
+* Spring, Struts2, JSF | Expressjs, nestjs [Web framework]
+* Spring Data, Hibernate | Sequelize, mongoose [ORM framework]
+* Rest / Soap / GrahQl
+* Design Patterns (GoF) Behavioral, creational, structural
 * Junit-mockito | mocha, chai, supertest, jest [Unit Testing]
-* Documentation with Swagger
+* Swagger [Documentation]
+* jacoco | istambulJs [Coverage]
+* MySql, Sql Server, Postgres | Mongo, Firestone [Databases]
 * Postman / SoapUI for API Testing
 * GIT / SVN [Version Control]
-* Agile Development
+* Scrum, Kanban [Agile Development]
 
